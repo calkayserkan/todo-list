@@ -1,0 +1,11 @@
+::-webkit-scrollbar {
+    width: 0px;
+}
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    /* font-family: "Turret Road", cursive; */
+    font-family: "Varela Round", sans-serif;
+    scroll-behavior: smooth
+}
